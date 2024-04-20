@@ -1,5 +1,6 @@
 # 💫 About Me:
-Sou estudante de SGBD, Backend e English<br>Atualmente trabalho como Analista de Software Júnior
+Estudante de Análise e desenvolvimento de sistemas, Java, Spring Boot, HTML, CSS, JavaScript e Angular!!!
+
 
 
 ## 🌐 Socials:
