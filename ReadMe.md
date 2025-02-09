@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudante de Análise e desenvolvimento de sistemas, Java, Spring Boot, HTML, CSS, JavaScript e Angular!!!
+Estudante de Análise e desenvolvimento de sistemas, Java, Spring Boot, HTML, CSS, JavaScript e React!!!
 
 
 
